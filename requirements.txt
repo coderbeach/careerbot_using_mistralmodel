@@ -1,0 +1,5 @@
+streamlit
+pandas
+datasets
+scikit-learn
+mistralai
